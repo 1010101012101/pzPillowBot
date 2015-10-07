@@ -9,7 +9,7 @@ A bot for twitch.tv IRC that counts hugs.
 !clearhugs - resets the hug counter
 
 #### Controlling the bot:
-Moderators can turn the bot on and off by mentioning the bot's username with particular keywords in a chat message.
+Moderators can control the bot by mentioning the bot's username with a particular keyword in the chat message.
 
 Message examples:
 * @pzPillowBot *start*
@@ -18,6 +18,8 @@ Message examples:
 * @pzPillowBot *stop*
 * *beat it* @pzPillowbot!
 * go to *sleep* @psPillowbot.
+
+(the @ is optional)
 
 #### Keywords when 'talking' to the bot:
 >**Stopping the bot:**
