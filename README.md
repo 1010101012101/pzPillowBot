@@ -1,5 +1,6 @@
 ### pzPillowBot
 A bot for twitch.tv IRC that counts hugs.
+All commands are moderator only.
 
 #### Moderator commands:
 !hugs - Displays the total number of hugs the bot has recorded.
