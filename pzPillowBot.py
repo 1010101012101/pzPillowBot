@@ -14,8 +14,8 @@ os.system('clear')
 HOST = "irc.twitch.tv"                          # Hostname of the IRC-Server in this case twitch's
 wHOST = "199.9.253.119"                         # Hostname of the group chat IRC-Server so we can whisper
 PORT = 6667                                     # Default IRC-Port
-CHAN = "#geekandsundry"                         # Channelname = #{Nickname}
-NICK = "pzpillowbot"                            # Nickname = Twitch username for the BOT
+CHAN = "#pillowzac"                             # Channelname = #{name}
+NICK = "pillowbot"                              # Nickname = Twitch username for the BOT
 PASS = "oauth:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"   # www.twitchapps.com/tmi/ will help to retrieve the required BOT authkey
 
 # --------------------------------------------- Data Containers -------------------------------------------------------
